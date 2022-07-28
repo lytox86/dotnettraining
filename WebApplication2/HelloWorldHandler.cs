@@ -1,6 +1,6 @@
 ﻿namespace WebApplication2;
 
-public class HelloWorldHandler
+public static class HelloWorldHandler
 {
     static public IResult SayHello()
     {
